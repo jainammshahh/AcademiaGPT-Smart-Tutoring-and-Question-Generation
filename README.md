@@ -26,3 +26,50 @@ The purpose of the question generator is to assist the instructors in creating q
 
 <img width="468" alt="image" src="https://github.com/jainammshahh/AcademiaGPT-Smart-Tutoring-and-Question-Generation/assets/114266749/76a605f5-8765-43a7-be41-cc0769c92e12">
 
+The high level diagram shows the following overview of AcademiaGPT:
+
+- Conceptual overview of project development steps.
+- Major components/modules identification.
+- Description of interactions and dependencies.
+- Early identification of risks and challenges.
+- Foundation for detailed design and implementation.
+- Scalability and flexibility for future changes.
+
+### Components of the System:
+
+1. User-Friendly Interface:
+
+- Web application for students and tutors.
+- Access to lessons and teaching material generation.
+
+2. Server and Interface:
+
+- Manages user requests and usage data.
+- Records topics explored and learning history for personalized experiences.
+
+3. Adaptive Learning Engine:
+
+- Designed based on RAG.
+- Extracts key concepts and identifies user intent.
+
+4. Knowledge Base:
+
+- Database storing vectorized data.
+- Domain-specific information for AI tutor or question generator.
+- Constantly updated with new content.
+
+5. Student Module:
+
+- Maintains user's current knowledge, skills, and learning style.
+- Recommends learning materials based on user profile.
+
+6. Pedagogical Module:
+
+- Determines teaching strategies and question difficulty.
+- Highly adaptive to different dialects and informal language.
+
+7.Answer Generation Module:
+
+- Retrieves information from knowledge base.
+- Formulates summarized and informative responses.
+- Generates various types of answers (explanations, examples, demonstrations)
