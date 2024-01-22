@@ -21,3 +21,8 @@ experience of specific topics through interactive methods. It also aims at engag
 
 #### Question Generator: 
 The purpose of the question generator is to assist the instructors in creating questions for educational and assessment purposes.
+
+# High-level Architecture Diagram
+
+<img width="468" alt="image" src="https://github.com/jainammshahh/AcademiaGPT-Smart-Tutoring-and-Question-Generation/assets/114266749/76a605f5-8765-43a7-be41-cc0769c92e12">
+
