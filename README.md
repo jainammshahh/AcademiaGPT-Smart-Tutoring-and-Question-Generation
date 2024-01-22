@@ -10,7 +10,8 @@
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="120" height="30"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="120" height="30"/> </a>
 </p>  
-
+# Project Demonstration - https://www.linkedin.com/feed/update/urn:li:activity:7149602832260689920/
+# Project Information - https://www.youtube.com/watch?v=E_6OqPSRwxg
 # Abstract
 
 Artificial Intelligence (AI) in education is utilized to enhance the learning and teaching experiences for both students and instructors. These technologies have helped students and
@@ -64,7 +65,7 @@ The purpose of the question generator is to assist the instructors in creating q
 
 ### Iterative Development Process:
 
-**Starting Narrow**: Analyze logs of questions, explanations, feedback, and trouble areas.
+**Starting Narrow**: Analyze logs of questions, explanations, feedback, and trouble areas.  
 **Expansion**: Inform expansion to new topics based on insights. Continuous adjustment as the knowledge base grows.
 
 ### Monitoring Metrics:
@@ -129,6 +130,14 @@ The high level diagram shows the following overview of AcademiaGPT:
 
 <img width="700" alt="image" src="https://github.com/jainammshahh/AcademiaGPT-Smart-Tutoring-and-Question-Generation/assets/114266749/61afb14a-4ff0-4a2d-8cba-04d9da5f5642">
 
-#
+# Final Contemplation
+
+In navigating the development of our MVP, we faced challenges with the Question Generator's design constraints, specifically the mandatory use of the Pydantic Output model. This posed limitations on prompt engineering.
+
+Looking forward, we contemplated towards enhancement of the Question Generator's interactivity and adopting a more conversational tone. Increasing the difficulty of user-generated questions was a key focus for an enriched learning experience. Additionally, addressing AI Tutor challenges, such as hallucination during output retrieval, also proved crucial for refining its performance.
+
+Our immediate roadmap involves creating a user-friendly interface for the Question Generator, prioritizing user experience, and implementing a robust data protection strategy. Simultaneously, the AI Tutor will undergo refinement based on real-world usage insights.
+
+In our academic journey, business development exposed us to state-of-the-art tools and technologies like Generative AI, Prompt Engineering, and Retrieval Augmented Generation, enriching our software development understanding.
 
 
