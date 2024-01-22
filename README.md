@@ -68,8 +68,15 @@ The high level diagram shows the following overview of AcademiaGPT:
 - Determines teaching strategies and question difficulty.
 - Highly adaptive to different dialects and informal language.
 
-7.Answer Generation Module:
+7. Answer Generation Module:
 
 - Retrieves information from knowledge base.
 - Formulates summarized and informative responses.
 - Generates various types of answers (explanations, examples, demonstrations)
+
+## Critical Path
+
+<img width="700" alt="image" src="https://github.com/jainammshahh/AcademiaGPT-Smart-Tutoring-and-Question-Generation/assets/114266749/61afb14a-4ff0-4a2d-8cba-04d9da5f5642">
+
+
+
