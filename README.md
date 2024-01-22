@@ -10,8 +10,11 @@
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="120" height="30"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="120" height="30"/> </a>
 </p>  
-# Project Demonstration - https://www.linkedin.com/feed/update/urn:li:activity:7149602832260689920/
-# Project Information - https://www.youtube.com/watch?v=E_6OqPSRwxg
+
+# Project Demonstration - https://www.linkedin.com/feed/update/urn:li:activity:7149602832260689920/  
+
+# Project Information - https://www.youtube.com/watch?v=E_6OqPSRwxg  
+
 # Abstract
 
 Artificial Intelligence (AI) in education is utilized to enhance the learning and teaching experiences for both students and instructors. These technologies have helped students and
